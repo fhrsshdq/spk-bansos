@@ -389,11 +389,14 @@ $initial_view = isset($_GET['view']) && in_array($_GET['view'], ['data', 'criter
     
     <!-- Sidebar -->
     <aside class="sidebar">
-        <div class="brand-logo">
+        <div class="brand-logo" style="display:flex; justify-content:space-between; align-items:center;">
             <div>
                 <h2>SPK Bansos</h2>
                 <p>Metode SAW</p>
             </div>
+            <button id="sidebar-close" style="background:none; border:none; font-size:24px; color:var(--text-light); cursor:pointer; display:none;">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
         </div>
         
         <div class="sidebar-menu">
@@ -1409,6 +1412,7 @@ $initial_view = isset($_GET['view']) && in_array($_GET['view'], ['data', 'criter
     <script>
         // Sidebar Toggle Logic
         const sidebarToggle = document.getElementById('sidebar-toggle');
+        const sidebarClose = document.getElementById('sidebar-close');
         const sidebar = document.querySelector('.sidebar');
         const mainContent = document.querySelector('.main-content');
         
@@ -1416,6 +1420,23 @@ $initial_view = isset($_GET['view']) && in_array($_GET['view'], ['data', 'criter
             sidebarToggle.addEventListener('click', () => {
                 sidebar.classList.toggle('open');
             });
+            
+            if (sidebarClose) {
+                sidebarClose.addEventListener('click', () => {
+                    sidebar.classList.remove('open');
+                });
+            }
+            
+            // Show close button only on mobile when opened
+            const checkMobile = () => {
+                if (window.innerWidth <= 768 && sidebarClose) {
+                    sidebarClose.style.display = 'block';
+                } else if (sidebarClose) {
+                    sidebarClose.style.display = 'none';
+                }
+            };
+            window.addEventListener('resize', checkMobile);
+            checkMobile();
             
             // Close sidebar when clicking outside on mobile
             document.addEventListener('click', (e) => {
