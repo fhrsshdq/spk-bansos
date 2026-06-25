@@ -108,6 +108,12 @@ function switchView(view, nav) {
     
     view.classList.add('active');
     nav.parentElement.classList.add('active');
+    
+    // Close sidebar on mobile after clicking a link
+    if (window.innerWidth <= 768) {
+        const sidebarEl = document.querySelector('.sidebar');
+        if (sidebarEl) sidebarEl.classList.remove('open');
+    }
 }
 
 function formatRupiah(number) {
