@@ -327,7 +327,7 @@ $initial_view = isset($_GET['view']) && in_array($_GET['view'], ['data', 'criter
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css?v=<?= time(); ?>">
     <style>
         .alert { padding: 12px 20px; border-radius: 8px; font-size: 14px; display: flex; align-items: center; gap: 10px; }
         .alert-success { background: #d1fae5; color: #065f46; border: 1px solid #a7f3d0; }
@@ -1406,5 +1406,24 @@ $initial_view = isset($_GET['view']) && in_array($_GET['view'], ['data', 'criter
         .btn-danger:hover { background: #dc2626 !important; transform: translateY(-1px); }
         .btn-secondary:hover { background: #f8fafc !important; transform: translateY(-1px); }
     </style>
+    <script>
+        // Sidebar Toggle Logic
+        const sidebarToggle = document.getElementById('sidebar-toggle');
+        const sidebar = document.querySelector('.sidebar');
+        const mainContent = document.querySelector('.main-content');
+        
+        if (sidebarToggle && sidebar) {
+            sidebarToggle.addEventListener('click', () => {
+                sidebar.classList.toggle('open');
+            });
+            
+            // Close sidebar when clicking outside on mobile
+            document.addEventListener('click', (e) => {
+                if (window.innerWidth <= 768 && !sidebar.contains(e.target) && !sidebarToggle.contains(e.target)) {
+                    sidebar.classList.remove('open');
+                }
+            });
+        }
+    </script>
 </body>
 </html>
