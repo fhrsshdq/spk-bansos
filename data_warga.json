@@ -1,0 +1,856 @@
+[
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Manil",
+        "scores":  {
+                       "C1":  4,
+                       "C2":  2,
+                       "C3":  3
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 500.000 - Rp 1.000.000",
+                         "C2":  "2 Orang",
+                         "C3":  "Wiraswasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Romli",
+        "scores":  {
+                       "C1":  4,
+                       "C2":  4,
+                       "C3":  1
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 500.000 - Rp 1.000.000",
+                         "C2":  "4 Orang",
+                         "C3":  "PNS / TNI / Polri"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Rondi",
+        "scores":  {
+                       "C1":  3,
+                       "C2":  3,
+                       "C3":  2
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 1.000.000 - Rp 2.000.000",
+                         "C2":  "3 Orang",
+                         "C3":  "Karyawan Swasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Slamet",
+        "scores":  {
+                       "C1":  4,
+                       "C2":  1,
+                       "C3":  4
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 500.000 - Rp 1.000.000",
+                         "C2":  "1 Orang",
+                         "C3":  "Buruh Harian"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Mahfudin",
+        "scores":  {
+                       "C1":  1,
+                       "C2":  5,
+                       "C3":  1
+                   },
+        "raw_data":  {
+                         "C1":  "\u003e Rp 3.000.000",
+                         "C2":  "\u003e 5 Orang",
+                         "C3":  "PNS / TNI / Polri"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Mursin",
+        "scores":  {
+                       "C1":  4,
+                       "C2":  2,
+                       "C3":  3
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 500.000 - Rp 1.000.000",
+                         "C2":  "2 Orang",
+                         "C3":  "Wiraswasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Talib",
+        "scores":  {
+                       "C1":  3,
+                       "C2":  4,
+                       "C3":  2
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 1.000.000 - Rp 2.000.000",
+                         "C2":  "4 Orang",
+                         "C3":  "Karyawan Swasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Nasan",
+        "scores":  {
+                       "C1":  3,
+                       "C2":  2,
+                       "C3":  5
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 1.000.000 - Rp 2.000.000",
+                         "C2":  "2 Orang",
+                         "C3":  "Tidak Bekerja"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Nasrin",
+        "scores":  {
+                       "C1":  3,
+                       "C2":  3,
+                       "C3":  1
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 1.000.000 - Rp 2.000.000",
+                         "C2":  "3 Orang",
+                         "C3":  "PNS / TNI / Polri"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Nurhasanah",
+        "scores":  {
+                       "C1":  5,
+                       "C2":  1,
+                       "C3":  2
+                   },
+        "raw_data":  {
+                         "C1":  "\u003c Rp 500.000",
+                         "C2":  "1 Orang",
+                         "C3":  "Karyawan Swasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Beni",
+        "scores":  {
+                       "C1":  3,
+                       "C2":  3,
+                       "C3":  4
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 1.000.000 - Rp 2.000.000",
+                         "C2":  "3 Orang",
+                         "C3":  "Buruh Harian"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Salbani",
+        "scores":  {
+                       "C1":  1,
+                       "C2":  2,
+                       "C3":  3
+                   },
+        "raw_data":  {
+                         "C1":  "\u003e Rp 3.000.000",
+                         "C2":  "2 Orang",
+                         "C3":  "Wiraswasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Ramdani",
+        "scores":  {
+                       "C1":  4,
+                       "C2":  4,
+                       "C3":  1
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 500.000 - Rp 1.000.000",
+                         "C2":  "4 Orang",
+                         "C3":  "PNS / TNI / Polri"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Alim",
+        "scores":  {
+                       "C1":  5,
+                       "C2":  1,
+                       "C3":  5
+                   },
+        "raw_data":  {
+                         "C1":  "\u003c Rp 500.000",
+                         "C2":  "1 Orang",
+                         "C3":  "Tidak Bekerja"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Edi Iskandar",
+        "scores":  {
+                       "C1":  2,
+                       "C2":  5,
+                       "C3":  2
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 2.000.000 - Rp 3.000.000",
+                         "C2":  "\u003e 5 Orang",
+                         "C3":  "Karyawan Swasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Umar Ganep",
+        "scores":  {
+                       "C1":  1,
+                       "C2":  2,
+                       "C3":  3
+                   },
+        "raw_data":  {
+                         "C1":  "\u003e Rp 3.000.000",
+                         "C2":  "2 Orang",
+                         "C3":  "Wiraswasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Rita",
+        "scores":  {
+                       "C1":  1,
+                       "C2":  3,
+                       "C3":  1
+                   },
+        "raw_data":  {
+                         "C1":  "\u003e Rp 3.000.000",
+                         "C2":  "3 Orang",
+                         "C3":  "PNS / TNI / Polri"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Sayidan Eko",
+        "scores":  {
+                       "C1":  1,
+                       "C2":  4,
+                       "C3":  4
+                   },
+        "raw_data":  {
+                         "C1":  "\u003e Rp 3.000.000",
+                         "C2":  "4 Orang",
+                         "C3":  "Buruh Harian"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Saiman",
+        "scores":  {
+                       "C1":  2,
+                       "C2":  2,
+                       "C3":  2
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 2.000.000 - Rp 3.000.000",
+                         "C2":  "2 Orang",
+                         "C3":  "Karyawan Swasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Rudi",
+        "scores":  {
+                       "C1":  3,
+                       "C2":  1,
+                       "C3":  3
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 1.000.000 - Rp 2.000.000",
+                         "C2":  "1 Orang",
+                         "C3":  "Wiraswasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Agus F",
+        "scores":  {
+                       "C1":  1,
+                       "C2":  4,
+                       "C3":  1
+                   },
+        "raw_data":  {
+                         "C1":  "\u003e Rp 3.000.000",
+                         "C2":  "4 Orang",
+                         "C3":  "PNS / TNI / Polri"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Suhamdan",
+        "scores":  {
+                       "C1":  5,
+                       "C2":  3,
+                       "C3":  5
+                   },
+        "raw_data":  {
+                         "C1":  "\u003c Rp 500.000",
+                         "C2":  "3 Orang",
+                         "C3":  "Tidak Bekerja"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Prima",
+        "scores":  {
+                       "C1":  1,
+                       "C2":  2,
+                       "C3":  4
+                   },
+        "raw_data":  {
+                         "C1":  "\u003e Rp 3.000.000",
+                         "C2":  "2 Orang",
+                         "C3":  "Buruh Harian"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Yudi",
+        "scores":  {
+                       "C1":  2,
+                       "C2":  5,
+                       "C3":  2
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 2.000.000 - Rp 3.000.000",
+                         "C2":  "\u003e 5 Orang",
+                         "C3":  "Karyawan Swasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Budi",
+        "scores":  {
+                       "C1":  3,
+                       "C2":  3,
+                       "C3":  3
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 1.000.000 - Rp 2.000.000",
+                         "C2":  "3 Orang",
+                         "C3":  "Wiraswasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Saripudin",
+        "scores":  {
+                       "C1":  2,
+                       "C2":  5,
+                       "C3":  1
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 2.000.000 - Rp 3.000.000",
+                         "C2":  "\u003e 5 Orang",
+                         "C3":  "PNS / TNI / Polri"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Rohim",
+        "scores":  {
+                       "C1":  3,
+                       "C2":  2,
+                       "C3":  4
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 1.000.000 - Rp 2.000.000",
+                         "C2":  "2 Orang",
+                         "C3":  "Buruh Harian"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Nurhasan",
+        "scores":  {
+                       "C1":  2,
+                       "C2":  4,
+                       "C3":  2
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 2.000.000 - Rp 3.000.000",
+                         "C2":  "4 Orang",
+                         "C3":  "Karyawan Swasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Edi Sarno",
+        "scores":  {
+                       "C1":  3,
+                       "C2":  1,
+                       "C3":  3
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 1.000.000 - Rp 2.000.000",
+                         "C2":  "1 Orang",
+                         "C3":  "Wiraswasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Aryanto",
+        "scores":  {
+                       "C1":  2,
+                       "C2":  4,
+                       "C3":  5
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 2.000.000 - Rp 3.000.000",
+                         "C2":  "4 Orang",
+                         "C3":  "Tidak Bekerja"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Yanih",
+        "scores":  {
+                       "C1":  5,
+                       "C2":  2,
+                       "C3":  1
+                   },
+        "raw_data":  {
+                         "C1":  "\u003c Rp 500.000",
+                         "C2":  "2 Orang",
+                         "C3":  "PNS / TNI / Polri"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Imah",
+        "scores":  {
+                       "C1":  2,
+                       "C2":  3,
+                       "C3":  2
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 2.000.000 - Rp 3.000.000",
+                         "C2":  "3 Orang",
+                         "C3":  "Karyawan Swasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Hj Nimah",
+        "scores":  {
+                       "C1":  1,
+                       "C2":  1,
+                       "C3":  4
+                   },
+        "raw_data":  {
+                         "C1":  "\u003e Rp 3.000.000",
+                         "C2":  "1 Orang",
+                         "C3":  "Buruh Harian"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Ayera Any Ayera",
+        "scores":  {
+                       "C1":  5,
+                       "C2":  2,
+                       "C3":  3
+                   },
+        "raw_data":  {
+                         "C1":  "\u003c Rp 500.000",
+                         "C2":  "2 Orang",
+                         "C3":  "Wiraswasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Maafan",
+        "scores":  {
+                       "C1":  2,
+                       "C2":  5,
+                       "C3":  1
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 2.000.000 - Rp 3.000.000",
+                         "C2":  "\u003e 5 Orang",
+                         "C3":  "PNS / TNI / Polri"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Marung",
+        "scores":  {
+                       "C1":  5,
+                       "C2":  4,
+                       "C3":  2
+                   },
+        "raw_data":  {
+                         "C1":  "\u003c Rp 500.000",
+                         "C2":  "4 Orang",
+                         "C3":  "Karyawan Swasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Usmi",
+        "scores":  {
+                       "C1":  4,
+                       "C2":  3,
+                       "C3":  3
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 500.000 - Rp 1.000.000",
+                         "C2":  "3 Orang",
+                         "C3":  "Wiraswasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Mba Sum",
+        "scores":  {
+                       "C1":  4,
+                       "C2":  2,
+                       "C3":  1
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 500.000 - Rp 1.000.000",
+                         "C2":  "2 Orang",
+                         "C3":  "PNS / TNI / Polri"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Hj Sukarti",
+        "scores":  {
+                       "C1":  4,
+                       "C2":  2,
+                       "C3":  5
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 500.000 - Rp 1.000.000",
+                         "C2":  "2 Orang",
+                         "C3":  "Tidak Bekerja"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Suparman",
+        "scores":  {
+                       "C1":  2,
+                       "C2":  3,
+                       "C3":  4
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 2.000.000 - Rp 3.000.000",
+                         "C2":  "3 Orang",
+                         "C3":  "Buruh Harian"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Ali Hamzah",
+        "scores":  {
+                       "C1":  2,
+                       "C2":  4,
+                       "C3":  2
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 2.000.000 - Rp 3.000.000",
+                         "C2":  "4 Orang",
+                         "C3":  "Karyawan Swasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Qori 72",
+        "scores":  {
+                       "C1":  5,
+                       "C2":  1,
+                       "C3":  2
+                   },
+        "raw_data":  {
+                         "C1":  "\u003c Rp 500.000",
+                         "C2":  "1 Orang",
+                         "C3":  "Karyawan Swasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Bambang 17",
+        "scores":  {
+                       "C1":  5,
+                       "C2":  4,
+                       "C3":  4
+                   },
+        "raw_data":  {
+                         "C1":  "\u003c Rp 500.000",
+                         "C2":  "4 Orang",
+                         "C3":  "Buruh Harian"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Indah 2",
+        "scores":  {
+                       "C1":  5,
+                       "C2":  5,
+                       "C3":  2
+                   },
+        "raw_data":  {
+                         "C1":  "\u003c Rp 500.000",
+                         "C2":  "\u003e 5 Orang",
+                         "C3":  "Karyawan Swasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Andi 36",
+        "scores":  {
+                       "C1":  5,
+                       "C2":  1,
+                       "C3":  3
+                   },
+        "raw_data":  {
+                         "C1":  "\u003c Rp 500.000",
+                         "C2":  "1 Orang",
+                         "C3":  "Wiraswasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Putri 43",
+        "scores":  {
+                       "C1":  2,
+                       "C2":  3,
+                       "C3":  3
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 2.000.000 - Rp 3.000.000",
+                         "C2":  "3 Orang",
+                         "C3":  "Wiraswasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Tono 39",
+        "scores":  {
+                       "C1":  5,
+                       "C2":  1,
+                       "C3":  5
+                   },
+        "raw_data":  {
+                         "C1":  "\u003c Rp 500.000",
+                         "C2":  "1 Orang",
+                         "C3":  "Tidak Bekerja"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Siti 13",
+        "scores":  {
+                       "C1":  2,
+                       "C2":  1,
+                       "C3":  1
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 2.000.000 - Rp 3.000.000",
+                         "C2":  "1 Orang",
+                         "C3":  "PNS / TNI / Polri"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Indah 47",
+        "scores":  {
+                       "C1":  4,
+                       "C2":  4,
+                       "C3":  5
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 500.000 - Rp 1.000.000",
+                         "C2":  "4 Orang",
+                         "C3":  "Tidak Bekerja"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Sari 74",
+        "scores":  {
+                       "C1":  5,
+                       "C2":  2,
+                       "C3":  3
+                   },
+        "raw_data":  {
+                         "C1":  "\u003c Rp 500.000",
+                         "C2":  "2 Orang",
+                         "C3":  "Wiraswasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Indah 66",
+        "scores":  {
+                       "C1":  2,
+                       "C2":  2,
+                       "C3":  3
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 2.000.000 - Rp 3.000.000",
+                         "C2":  "2 Orang",
+                         "C3":  "Wiraswasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Tono 70",
+        "scores":  {
+                       "C1":  5,
+                       "C2":  5,
+                       "C3":  5
+                   },
+        "raw_data":  {
+                         "C1":  "\u003c Rp 500.000",
+                         "C2":  "\u003e 5 Orang",
+                         "C3":  "Tidak Bekerja"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Tono 61",
+        "scores":  {
+                       "C1":  4,
+                       "C2":  2,
+                       "C3":  1
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 500.000 - Rp 1.000.000",
+                         "C2":  "2 Orang",
+                         "C3":  "PNS / TNI / Polri"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Rina 11",
+        "scores":  {
+                       "C1":  5,
+                       "C2":  3,
+                       "C3":  1
+                   },
+        "raw_data":  {
+                         "C1":  "\u003c Rp 500.000",
+                         "C2":  "3 Orang",
+                         "C3":  "PNS / TNI / Polri"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Jamal 81",
+        "scores":  {
+                       "C1":  4,
+                       "C2":  5,
+                       "C3":  3
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 500.000 - Rp 1.000.000",
+                         "C2":  "\u003e 5 Orang",
+                         "C3":  "Wiraswasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Hendra 83",
+        "scores":  {
+                       "C1":  4,
+                       "C2":  4,
+                       "C3":  3
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 500.000 - Rp 1.000.000",
+                         "C2":  "4 Orang",
+                         "C3":  "Wiraswasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Qori 37",
+        "scores":  {
+                       "C1":  3,
+                       "C2":  3,
+                       "C3":  2
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 1.000.000 - Rp 2.000.000",
+                         "C2":  "3 Orang",
+                         "C3":  "Karyawan Swasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Fitri 90",
+        "scores":  {
+                       "C1":  1,
+                       "C2":  5,
+                       "C3":  1
+                   },
+        "raw_data":  {
+                         "C1":  "\u003e Rp 3.000.000",
+                         "C2":  "\u003e 5 Orang",
+                         "C3":  "PNS / TNI / Polri"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Reza 38",
+        "scores":  {
+                       "C1":  2,
+                       "C2":  5,
+                       "C3":  4
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 2.000.000 - Rp 3.000.000",
+                         "C2":  "\u003e 5 Orang",
+                         "C3":  "Buruh Harian"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Sri 30",
+        "scores":  {
+                       "C1":  2,
+                       "C2":  3,
+                       "C3":  2
+                   },
+        "raw_data":  {
+                         "C1":  "Rp 2.000.000 - Rp 3.000.000",
+                         "C2":  "3 Orang",
+                         "C3":  "Karyawan Swasta"
+                     }
+    },
+    {
+        "nokk":  "RT 04 / RW 05",
+        "nama":  "Reza 16",
+        "scores":  {
+                       "C1":  5,
+                       "C2":  1,
+                       "C3":  5
+                   },
+        "raw_data":  {
+                         "C1":  "\u003c Rp 500.000",
+                         "C2":  "1 Orang",
+                         "C3":  "Tidak Bekerja"
+                     }
+    }
+]

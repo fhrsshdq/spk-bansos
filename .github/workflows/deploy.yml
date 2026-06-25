@@ -1,0 +1,33 @@
+name: 🚀 Deploy to InfinityFree
+
+on:
+  push:
+    branches:
+      - main
+      - master # Menjalankan action ini saat ada push ke branch main atau master
+
+jobs:
+  web-deploy:
+    name: 🎉 Deploy Website
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Mengambil kode terbaru dari GitHub
+      uses: actions/checkout@v4
+    
+    - name: 📂 Upload ke InfinityFree lewat FTP
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.3
+      with:
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        server-dir: htdocs/
+        
+        # PENTING: Mengecualikan file-file database JSON agar tidak menimpa data warga yang sudah diinput di server asli
+        exclude: |
+          **/.git*
+          **/.git*/**
+          **/.github/**
+          data_warga.json
+          data_warga.csv
+          admins.json
+          kriteria.json

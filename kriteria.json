@@ -1,0 +1,20 @@
+[
+    {
+        "kode": "C1",
+        "nama": "Penghasilan Bulanan",
+        "bobot": 40,
+        "tipe": "COST"
+    },
+    {
+        "kode": "C2",
+        "nama": "Jumlah Tanggungan",
+        "bobot": 40,
+        "tipe": "BENEFIT"
+    },
+    {
+        "kode": "C3",
+        "nama": "Status Pekerjaan",
+        "bobot": 20,
+        "tipe": "BENEFIT"
+    }
+]
